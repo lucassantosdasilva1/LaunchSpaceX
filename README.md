@@ -51,7 +51,7 @@ Projeto desenvolvido durante a avaliação para o teste de Desenvolvedor Mobile 
 
 Primeiro, você precisa ter o <kbd>[EXPO](https://expo.dev)</kbd> instalado na sua máquina.
 
-Uma vez instalado ACESSE O DIRETORIO onde você baixou e decompactou o zip/clone sysconsultmobile
+Uma vez instalado o Expo ACESSE O DIRETORIO onde você baixou e decompactou o zip/clone LaunchSpaceX
 
 Após ter o **React Native (Expo)** instalado, instale as dependências do **React Native (Expo)**, utilizando os comandos:
 
