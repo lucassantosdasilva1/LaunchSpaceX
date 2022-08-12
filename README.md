@@ -67,7 +67,7 @@ $ expo start
 ```
 </br>
 
-### Se tudo correu bem, agora você estará com seu backend funcionando perfeitamente!
+### Se tudo correu bem, agora você estará com tudo funcionando perfeitamente!
 
 </br>
 
