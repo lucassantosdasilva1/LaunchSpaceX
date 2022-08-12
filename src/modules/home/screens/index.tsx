@@ -10,7 +10,7 @@ import Search from "../../../shared/components/search";
 import v3DTO from "../../../core/dto/v3DTO";
 import { RootState } from "../../../core/store";
 import { save } from "../../../core/store/slices";
-import { getData, getPaginateData } from "../../../shared/service/api";
+import { getPaginateData } from "../../../shared/service/api";
 
 const Home = () => {
   const data = useSelector((state: RootState) => state.data);
