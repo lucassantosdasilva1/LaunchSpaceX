@@ -43,13 +43,6 @@ Projeto desenvolvido durante a avaliação para o teste de Desenvolvedor Mobile 
 
 </br>
 
-## 🚀 Como executar o projeto
-
-Este projeto é divido em duas partes:
-1. [Mobile](https://github.com/lucassantosdasilva1/LaunchSpaceX) ([link](https://github.com/lucassantosdasilva1/LaunchSpaceX) do github)
-
-</br>
-
 ## 🎲 Iniciando o projeto
 
 ### Pré-requisitos - React native
