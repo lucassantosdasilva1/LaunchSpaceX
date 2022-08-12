@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LaunchSpaceX",
-    "slug": "LaunchSpaceX",
+    "name": "spacex",
+    "slug": "spacex",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
